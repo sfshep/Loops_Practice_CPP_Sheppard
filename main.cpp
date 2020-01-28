@@ -6,7 +6,7 @@
 	Keeping Dr. McMillan from breaking my code, defend against "dark side of the force",
 	and/or legitimate user error. 
 	//Try and Catch blocks are used in error checking
-	Teacher: Dr. Tyson McMillan 
+	Teacher: Dr. Tyson McMillan, Ph.D.  
 */
 #include <cstdlib>  // Provides EXIT_SUCCESS
 #include <iostream>  // Provides cout, cerr, endl
